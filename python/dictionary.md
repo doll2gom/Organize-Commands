@@ -2,8 +2,9 @@
 
 [python library mapping type](https://docs.python.org/ko/dev/library/stdtypes.html#mapping-types-dict)
 
+### 딕셔너리 생성 방법
+
 ```python
-# 딕셔너리 생성 방법
 a = dict(one=1, two=2, three=3)
 b = {'one': 1, 'two': 2, 'three': 3}
 c = dict(zip(['one', 'two', 'three'], [1, 2, 3]))

@@ -1,6 +1,7 @@
 # list
 
 [python library Sequence](https://docs.python.org/ko/dev/library/stdtypes.html#sequence-types-list-tuple-range)
+[list2](https://docs.python.org/ko/dev/library/collections.abc.html#collections.abc.MutableSequence)
 
 | 연산                         | 결과                                                                               |
 | :--------------------------- | :--------------------------------------------------------------------------------- |
